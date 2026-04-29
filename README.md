@@ -11,7 +11,7 @@ Bu proje, lisans öğrencilerinin günlük çalışma alışkanlıkları ile gen
 
 ## Teknik Altyapı ve Kütüphaneler
 Proje, Python ekosistemindeki modern veri analizi kütüphaneleri kullanılarak geliştirilmiştir:
-*Python: Temel programlama dili.
-*Streamlit: Dashboard arayüz tasarımı ve web tabanlı sunum.
-*Pandas: Veri manipülasyonu, filtreleme ve tanımlayıcı istatistiksel işlemler.
-*Matplotlib: Verilerin görselleştirilmesi ve grafik üretimi.
+* Python: Temel programlama dili.
+* Streamlit: Dashboard arayüz tasarımı ve web tabanlı sunum.
+* Pandas: Veri manipülasyonu, filtreleme ve tanımlayıcı istatistiksel işlemler.
+* Matplotlib: Verilerin görselleştirilmesi ve grafik üretimi.
