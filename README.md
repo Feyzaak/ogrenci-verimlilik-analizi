@@ -10,7 +10,9 @@ Bu proje, lisans öğrencilerinin günlük çalışma alışkanlıkları ile gen
 * **Nitel Analiz Girişi:** Analiz edilen bulguların belgelenmesi amacıyla kullanıcıya özel yorum ve not giriş alanları mevcuttur.
 
 # Proje Yayın Süreci ve Teknik Notlar #
-* **Veri Yönetimi:** Ham veriler `Pandas` kütüphanesi kullanılarak temizlenmiş ve analiz süreçlerine uygun hale getirilmiştir.
+* **Veri Hazırlama Süreci:** 
+*Veri Temizliği:* Ham veri seti, analiz öncesinde Excel kullanılarak yapısal hatalardan arındırılmış, eksik veriler tamamlanmış ve veri tutarlılığı sağlanarak işleme hazır hale getirilmiştir.
+*Format Dönüşümü:* Temizlenen veriler, Python/Pandas ekosistemiyle tam uyumlu çalışması amacıyla UTF-8 kodlamasına sahip CSV formatına dönüştürülmüştür.
 * **Canlı Yayın (Deployment):** Uygulama, sürekli entegrasyon (CI/CD) prensipleri doğrultusunda **Streamlit Cloud** platformu üzerinde yayına alınmıştır. GitHub üzerindeki ana dal (main branch) ile senkronize çalışmaktadır.
 * **Bağımlılık Yönetimi:** Sunucu tarafındaki kütüphane gereksinimleri `requirements.txt` dosyası aracılığıyla otomatik olarak yapılandırılmıştır.
 
