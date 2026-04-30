@@ -2,7 +2,7 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 
-df = pd.read_csv("/Users/afked/Downloads/25.26guzdonemidersleri/OgrenciYasam.csv", encoding="utf-8-sig")
+df = pd.read_csv("OgrenciYasam.csv", encoding="utf-8-sig")
 
 st.title("ÖĞRENCİ VERİMLİLİK ANALİZİ")
 st.write("Bu dashboard farklı bölümlerdeki öğrencilerin günlük çalışma saatleri ve memnuniyet düzeyleri arasındaki ilişkiyi incelemek amacıyla hazırlanmıştır.")
