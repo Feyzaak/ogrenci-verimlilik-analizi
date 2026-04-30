@@ -16,7 +16,7 @@ Bu proje, lisans öğrencilerinin günlük çalışma alışkanlıkları ile gen
 
 ## Canlı Uygulama Linki
 Projeyi tarayıcı üzerinden interaktif olarak denemek için aşağıdaki bağlantıyı kullanabilirsiniz:
-[Öğrenci Verimlilik Analizi Dashboard](https://cmskvjt9crihybu2bkxfug.streamlit.app/)
+* [Öğrenci Verimlilik Analizi Dashboard](https://cmskvjt9crihybu2bkxfug.streamlit.app/)
 
 ## Teknik Altyapı ve Kütüphaneler
 Proje, Python ekosistemindeki modern veri analizi kütüphaneleri kullanılarak geliştirilmiştir:
