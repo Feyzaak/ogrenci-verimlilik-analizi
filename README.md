@@ -26,8 +26,8 @@ Proje, Python ekosistemindeki modern veri analizi kütüphaneleri kullanılarak 
 * Pandas: Veri manipülasyonu, filtreleme ve tanımlayıcı istatistiksel işlemler.
 * Matplotlib: Verilerin görselleştirilmesi ve grafik üretimi.
 
-<img width="1240" height="1754" alt="2" src="https://github.com/user-attachments/assets/199e8448-a020-4070-8256-5003580439e4" />
 <img width="1240" height="1754" alt="1" src="https://github.com/user-attachments/assets/54be272a-5674-4fbb-a5a1-e5c98b32a3d9" />
+<img width="1240" height="1754" alt="2" src="https://github.com/user-attachments/assets/199e8448-a020-4070-8256-5003580439e4" />
 <img width="1240" height="1754" alt="4" src="https://github.com/user-attachments/assets/0c16e46d-62d1-422f-82bd-0f28e38bca9c" />
 <img width="1240" height="1754" alt="3" src="https://github.com/user-attachments/assets/d9a8fa15-ac60-4342-b0da-811445a92d59" />
 
